@@ -15,6 +15,17 @@ I'm a recent Master's graduate in Computer Applications from Osmania University,
 I'm honing my skills in Python Full Stack development at Qedge Technology, Hyderabad. I'm excited to dive deeper into the world of Python and web development.
 
 
+## Skills
+
+🌱 **Frontend**: React.js, Angular.js, Jquery, Bootstrap
+
+🔍 **Backend**: Django, Express, Node.js
+
+🛡 **Database**: MySQL, Oracle, MongoDB
+
+💬 **Language**: Python, HTML, CSS, Javascript, Java, C
+
+
 ## 💞️ I'm looking to collaborate on
 
 * Open-source projects related to Python development.
@@ -37,16 +48,6 @@ He/Him
 I love solving puzzles, playing chess, and learning new things. When I'm not coding, you might find me exploring the outdoors or watching informational podcasts.
 
 
-## Skills
-
-
-🌱 **Frontend**: React.js, Angular.js, Jquery, Bootstrap
-
-🔍 **Backend**: Django, Express, Node.js
-
-🛡 **Database**: MySQL, Oracle, MongoDB
-
-💬 **Language**: Python, HTML, CSS, Javascript, Java, C
 
 ---
 
