@@ -22,11 +22,34 @@ I'm honing my skills in Python Full Stack development at Qedge Technology, Hyder
 
 🌱 **Frontend**: React.js, Angular.js, Jquery, Bootstrap
 
-🔍 **Backend**: Django, Express, Node.js
+🔍 **Backend**: Django, Flask, Express.js, Node.js
 
 🛡 **Database**: MySQL, Oracle, MongoDB
 
-💬 **Language**: Python, HTML, CSS, Javascript, Java, C
+💬 **Language**: Python, HTML, CSS, JavaScript, Java, C
+
+
+## Tools
+
+<p align="center">
+<img src="icons/python.svg" />
+  <img src="icons/django.svg" />
+  <img src="icons/react.svg" />
+  <img src="icons/angular.svg" />
+  <img src="icons/express.svg" />
+  <img src="icons/nodejs.svg" />
+  <img src="icons/java.svg" />
+  <img src="icons/mongodb.svg" />
+  <img src="icons/mysqlsvg.svg" />
+  <img src="icons/sqlite.svg" />
+  <img src="icons/javascript.svg" />
+  <img src="icons/typescript.svg" />
+  <img src="icons/html.svg" />
+  <img src="icons/css.svg" />
+  <img src="icons/git.svg" />
+  <img src="icons/github.svg" />
+  <img src="icons/gitlabsvg.svg" />
+</p>
 
 
 ## 💞️ I'm looking to collaborate on
