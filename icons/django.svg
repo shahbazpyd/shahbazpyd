@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="20" role="img" aria-label="Python">
+    <title>Django</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="67" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+    <g clip-path="url(#r)">
+        <rect width="0" height="20" fill="#555"/>
+        <rect x="0" width="67" height="20" fill="#5f6a6a"/>
+        <rect width="67" height="20" fill="url(#s)"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjNDBDMDU3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSI2NHB4IiBoZWlnaHQ9IjY0cHgiPjxwYXRoIGQ9Ik0yMSA0SDI1VjhIMjF6TTI1IDIyLjc1NGMwIDEuMzUtLjMxNyA1Ljc5OS00LjI0MiA3LjE0OUwxNyAyOGMyLjgwNi0xLjIyNCA0LTMuMiA0LTUuMjQ2QzIxIDE5LjkyNiAyMSAxMSAyMSAxMWw0IC4wMDJDMjUgMTEuMDAyIDI1IDE5LjcxNSAyNSAyMi43NTR6TTE0IDR2Ni4zMDJjLS40NjktLjE5MS0xLjQ4LS4yMjgtMS45NzgtLjIyOEM4LjI3MyAxMC4wNzQgNSAxMi4wMTEgNSAxN2MwIDUuOTY5IDQuNTA0IDYuOTk3IDcuNjUgNi45OTcgMS4yNDIgMCA0LS4xMjIgNS4zNS0uNTEzVjRIMTR6TTEyLjYwOSAyMC42NjZDMTAuODQgMjAuNjY2IDkgMTkuODYzIDkgMTdzMS44NC0zLjQ2OSAzLjYwOS0zLjQ2OWMuNDMyIDAgLjkxOC4wODEgMS4zOTEuMTg5djYuNzU3QzEzLjUyOCAyMC41ODQgMTMuMDQyIDIwLjY2NiAxMi42MDkgMjAuNjY2eiIvPjwvc3ZnPg=="/>
+        <text aria-hidden="true" x="425" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="390">Python</text>
+        <text x="425" y="140" transform="scale(.1)" fill="#fff" textLength="390">Django</text>
+    </g>
+</svg>
