@@ -37,6 +37,17 @@ He/Him
 I love solving puzzles, playing chess, and learning new things. When I'm not coding, you might find me exploring the outdoors or watching informational podcasts.
 
 
+## Skills
+
+
+🌱 **Frontend**: React.js, Angular.js, Jquery, Bootstrap
+
+🔍 **Backend**: Django, Express, Node.js
+
+🛡 **Database**: MySQL, Oracle, MongoDB
+
+💬 **Language**: Python, HTML, CSS, Javascript, Java, C
+
 ---
 
 This is my GitHub profile, where I'll be sharing my projects, learnings, and contributions to the developer community. Feel free to explore and reach out! 
