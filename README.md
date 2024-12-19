@@ -35,7 +35,6 @@ I'm honing my skills in Python Full Stack development at Qedge Technology, Hyder
 <img src="icons/python.svg" />
   <img src="icons/django.svg" />
   <img src="icons/react.svg" />
-  <img src="icons/angular.svg" />
   <img src="icons/express.svg" />
   <img src="icons/nodejs.svg" />
   <img src="icons/java.svg" />
@@ -43,7 +42,6 @@ I'm honing my skills in Python Full Stack development at Qedge Technology, Hyder
   <img src="icons/mysqlsvg.svg" />
   <img src="icons/sqlite.svg" />
   <img src="icons/javascript.svg" />
-  <img src="icons/typescript.svg" />
   <img src="icons/html.svg" />
   <img src="icons/css.svg" />
   <img src="icons/git.svg" />
