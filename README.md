@@ -15,16 +15,16 @@ I'm a recent Master's graduate in Computer Applications from Osmania University,
 
 ## 🌱 I'm currently learning
 
-I'm honing my skills in Python Full Stack development at Qedge Technology, Hyderabad. I'm excited to dive deeper into the world of Python and web development.
+I'm honing my skills in Python Full Stack development at QEdge Technology, Hyderabad. I'm excited to dive deeper into the world of Python and web development.
 
 
 ## Skills
 
-🌱 **Frontend**: React.js, Angular.js, Jquery, Bootstrap
+🌱 **Frontend**: React.js, JQuery, Bootstrap
 
-🔍 **Backend**: Django, Flask, Express.js, Node.js
+🔍 **Backend**: Django, Express.js, Node.js
 
-🛡 **Database**: MySQL, Oracle, MongoDB
+🛡 **Database**: MySQL, MongoDB
 
 💬 **Language**: Python, HTML, CSS, JavaScript, Java, C
 
@@ -60,11 +60,7 @@ I'm honing my skills in Python Full Stack development at Qedge Technology, Hyder
 
 * **LinkedIn:** [www.linkedin.com/in/shahbazpyd](www.linkedin.com/in/shahbazpyd)
 * **Email:** sbzalam2024@gmial.com
-
-
-## 😄 Pronouns
-
-He/Him
+* **Instagram:** [shahbaz.hyd](https://www.instagram.com/shahbaz.hyd/)
 
 
 ## ⚡ Fun fact
